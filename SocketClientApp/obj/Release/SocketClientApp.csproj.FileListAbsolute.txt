@@ -1,0 +1,13 @@
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\bin\Release\SocketClientApp.exe.config
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\bin\Release\SocketClientApp.exe
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\bin\Release\SocketClientApp.pdb
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\bin\Release\LiteNetLib.dll
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\bin\Release\LiteNetLib.xml
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.csproj.AssemblyReference.cache
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.Form1.resources
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.Properties.Resources.resources
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.csproj.GenerateResource.cache
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.csproj.CoreCompileInputs.cache
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.csproj.CopyComplete
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.exe
+C:\Users\sk8ca\RiderProjects\SocketClientApp\SocketClientApp\obj\Release\SocketClientApp.pdb
